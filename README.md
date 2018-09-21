@@ -14,7 +14,7 @@
 ### 项目
 [bbs](https://github.com/diyhi/bbs )
 
-[分布式工具](https://github.com/crossoverJie/distributed-redis-tool ")
+[分布式工具](https://github.com/crossoverJie/distributed-redis-tool)
 
 [分散式微服务](https://github.com/crossoverJie/SSM)
 
@@ -48,6 +48,6 @@
 [ 屏蔽中国的主流短视频网站](https://github.com/kmahyyg/ban_cnshort)
 
 ### 涨姿势
-[中文编程](https://github.com/crossan007/jQuery-Photo-Uploader )
+[中文编程](https://github.com/program-in-chinese/overview )
 
 [FEX 面试问题](https://github.com/fex-team/interview-questions)
