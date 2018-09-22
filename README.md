@@ -80,7 +80,7 @@
 
 [Linux 酸酸客户端](https://github.com/mengmengmengqiang/shadowsocksr-linux-client-CLI)
 
-[DDOoS工具](https://github.com/wenfengshi/ddos-dos-tools)
+[DDoS工具](https://github.com/wenfengshi/ddos-dos-tools)
 
 [theFuck](https://github.com/nvbn/thefuck)
 
