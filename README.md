@@ -2,7 +2,7 @@
 
 ## Java
 ### 知识
-[Java知识](https://github.com/kmahyyg/asm-learning-notes)
+[Java知识](https://github.com/Snailclimb/JavaGuide)
 
 [Java 核心知识库](https://github.com/crossoverJie/JCSprout )
 
