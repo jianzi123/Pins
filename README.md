@@ -29,7 +29,7 @@
 
 [可视化编辑](https://github.com/kmahyyg/ban_cnshort)
 
-
+[lightbox](https://github.com/brutaldesign/swipebox)
 
 ## 安全
 ### 汇编
@@ -92,6 +92,8 @@
 [hexo管理员接口](https://github.com/jaredly/hexo-admin)
 
 [逗比云](https://github.com/ToyoDAdoubi/DirectoryLister)
+
+[基于DNSmasq开发的WEB界面](https://github.com/helloxz/phpdns)
 
 ### 好玩
 [命令行下的浏览网页](https://github.com/crossan007/jQuery-Photo-Uploader)
